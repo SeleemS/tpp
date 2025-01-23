@@ -50,7 +50,7 @@ export const siteConfig = {
 	links: {
 		instagram: "https://www.instagram.com/thepotcastproductions/",
 		youtube: "https://www.youtube.com/@thepotcastproductions",
-		email: "mailto:info@thepotcastproductions.com",
+		email: "mailto:info@tpp.network.com",
 		facebook: "https://www.facebook.com/thepotcastproductions?mibextid=LQQJ4d",
 		tiktok: "https://www.tiktok.com/@thepotcastproductions",
 	},
